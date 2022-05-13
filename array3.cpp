@@ -1,5 +1,5 @@
 #include <iostream>
-#include <array>
+#include <array> // Library array
 
 using namespace std;
 
@@ -7,7 +7,7 @@ int main(){
     // membuat array dengan menggunakan standar library
     // array<int, jumlah array> nama array
 
-    array < int, 5 > nilai;
+    array < int, 7 > nilai;
     
     for(int i = 0 ; i<=4 ; i++ ){
         nilai[i]=i;
