@@ -1,2 +1,2 @@
 # Latihan-Array
-Belajar Array ID
+Belajar Array 1D
